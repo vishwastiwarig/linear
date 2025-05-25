@@ -1,6 +1,9 @@
-
-
-Flask==2.2.5
-scikit-learn==1.2.2
-numpy==1.24.4
-requests==2.31.0
+Flask
+sklearn
+pandas
+numpy
+matplotlib
+gunicorn
+scikit-learn
+scipy
+Flask-Cors
